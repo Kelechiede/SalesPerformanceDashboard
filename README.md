@@ -88,16 +88,16 @@ The dataset used for this project is the "Superstore Sales Dataset" from Kaggle.
 ## Dashboard Screenshots
 
 ### Central Region
-![Central Region Dashboard](sales_performance_central.png)
+![Central Region Dashboard](Github-PowerBI_Tableau/sales_performance_central.png)
 
 ### East Region
-![East Region Dashboard](sales_performance_east.png)
+![East Region Dashboard](Github-PowerBI_Tableau/sales_performance_east.png)
 
 ### West Region
-![West Region Dashboard](sales_performance_west.png)
+![West Region Dashboard](Github-PowerBI_Tableau/sales_performance_west.png)
 
 ### South Region
-![South Region Dashboard](sales_performance_south.png)
+![South Region Dashboard](Github-PowerBI_Tableau/sales_performance_south.png)
 
 ## Files
 - SalesPerformanceDashboard.pbix

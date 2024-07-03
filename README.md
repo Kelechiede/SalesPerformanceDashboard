@@ -87,6 +87,7 @@ The dataset used for this project is the "Superstore Sales Dataset" from Kaggle.
 
 ## Dashboard Screenshots
 
+https://github.com/Kelechiede/SalesPerformanceDashboard.git
 ### Central Region
 ![Central Region Dashboard](Github-PowerBI_Tableau/sales_performance_central.png)
 
